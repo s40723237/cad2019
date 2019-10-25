@@ -143,7 +143,7 @@ img.add_border {
                             <li><a href="./../blog/index.html">blog</a></li>
                         </ul>
                       </li>
-                     <li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a><li><a href='week1~wee9.html'>week1~wee9</a></li>
+                     <li class='has-children'><a href='weeks.html'>weeks</a><ul class='dropdown'><li><a href='week2-5.html'>week2-5</a><li><a href='week6-9.html'>week6-9</a><li><a href='week10-14.html'>week10-14</a><li><a href='week15-18.html'>week15-18</a></li></ul><li><a href='note.html'>note</a><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li>
                       </ul>
                 </nav>
               </div>
@@ -154,97 +154,8 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">Develop << <a href='Develop.html'>Previous</a> <br /><h1>week1~wee9</h1>
-<p>week1 中秋連假</p>
-<p>week2</p>
-<p>1. 在github裡面創一倉儲，名子命名為cad2019並將lnitiulize this repository with a README打勾。</p>
-<p>2. 下載本課程的可攜套件 (2019full可攜套件下載本課程的可攜套件 (2019full可攜套件.7z)，因本檔案大於5G須先把隨身碟格式化成NTFS。</p>
-<p>3. 打開start mdecourse.bat -&gt; cd到tmp資料夾 <span>-&gt;git clone 下載自己的倉儲 ( 因原先tmp 已有一個 cad2019，因此我改名子成 aaa )</span>  ，如果在學校要記得把proxy位置改成［2001；288；6004；17；；17］port = 3128，在家則在前方打上#關閉此設定。</p>
-<p>4. 這學期的近端指吝有所更動需用 git submodule add <a href="http://github.com/mdecourse/cmsimde.git">http://github.com/mdecourse/cmsimde.git</a> cmsimde的指令下載更新。</p>
-<p>5. 打開資料夾 <span>-&gt; 進入cmsimde -&gt; 進入up_dir -&gt; 用 Ctrl+A 打檔案全選在 Ctrl+C 複製 <span>-&gt;回到資料夾貼上。</span></span></p>
-<p><span>6. 先進入 cd cmsimde  <span>-&gt; 再開啟近端動態 python wsgi.py。</span></span></p>
-<p><span><span>7. 打開瀏覽器輸入 httpa://127.0.0.1:9443/ 進入近端  <span>-&gt; 輸入密碼 admin 然後login 開始修改。</span></span></span></p>
-<p><span><span>影片請開 youtube  C C  字幕 </span></span></p>
-<p><span><span></span></span></p>
-<p><span><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/kl7GmUJVFwo" width="560"></iframe></span></span></p>
-<p>week3</p>
-<div><span>1. 進入Y曹 /進入 portablegit /進入 bin  的 sh.exe 改成 sh_rename_for_solvespace.exe。</span></div>
-<div><span></span></div>
-<div><span></span></div>
-<div><span><span>2. 到tmp底下git clone下載 --recurse-submodules </span></span></div>
-<div><span><span>https://github.com/solvespace/solvespace.git 。</span></span></div>
-<div><span><span></span></span></div>
-<div><span><span></span></span></div>
-<div><span><span>3. 進入tmp底下的 solvespace 進入 extlib 進入 angle 進入 CMakeLists.txt。</span></span></div>
-<div><span><span></span></span></div>
-<div><span><span></span></span></div>
-<div><span><span>4 . 將 CMakeLists.txt 中的第713 and 714行前面加上#來關閉。</span></span></div>
-<div><span><span></span></span></div>
-<div><span><span></span></span></div>
-<div><span><span>5. </span>cd solvespace  <span>-&gt;<span> </span></span> cd extlib  <span>-&gt;<span> </span></span> cd libpng   輸入指令 <span>mkdir build <span>  </span><span>-&gt;<span> </span></span> 在 cd build。</span></span></div>
-<div><span><span></span></span></div>
-<div><span><span></span></span></div>
-<div><span><span>6.  輸入指令cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release ，再輸入指令 mingw32-make 。</span></span></div>
-<div><span><span></span></span></div>
-<div><span><span></span></span></div>
-<div><span><span>7.  </span>把 libpng.dll.a 改名為 libpng_static.a 並放到 Y:/msys64\mingw64\lib。</span></div>
-<div><span></span></div>
-<div><span></span></div>
-<div><span>8. 輸入指令 cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release  ，再輸入指令mingw32-make。</span></div>
-<div><span></span></div>
-<div><span></span></div>
-<div><span>影片請開 youtube  C C  字幕</span></div>
-<div><span></span></div>
-<div><span></span></div>
-<div><span></span></div>
-<div><span></span></div>
-<div><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/HiNGialkwbY" width="560"></iframe></span></div>
-<p>week4</p>
-<p>完成 week2 和 week3</p>
-<p>week5</p>
-<p>1. 到老師的電腦輔助設計實習課程網頁，進入 task1 的 solvespace 操作，去選擇自己的題目練習</p>
-<p>2. 依照題目開始用<span> solvespace  練習繪圖</span></p>
-<p>3. 把草圖擠製成3D</p>
-<p>4開始約束零件和零件間的運動軌跡</p>
-<p>-----------------</p>
-<p>本題快捷鍵</p>
-<p>導圓角  shift + A</p>
-<p>尺寸標註 D</p>
-<p>角度標註 N</p>
-<p>建立新草圖  <span> shift + W</span></p>
-<p><span>擠製  shift + X</span></p>
-<p><span>開啟檔案 shift + I</span></p>
-<p><span> 回覆上一個步驟  ctrl + Z</span></p>
-<p><span>虛線  G</span></p>
-<p></p>
-<p></p>
-<p><span>影片請開 youtube  C C  字幕</span></p>
-<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/QMhkLkceaJ0" width="560"></iframe></span></p>
-<p>week6</p>
-<p><span>任務一參數化零組件繪製</span></p>
-<p><span>1. 利用 Solvespace 繪製車殼</span></p>
-<p><span>2. 利用 Solvespace 繪製心軸</span></p>
-<p><span>3. 利用 Solvespace 繪製輪子</span></p>
-<p><span>4. 利用 Solvespace 限制和拘束個個零件的活動</span></p>
-<p><span></span></p>
-<p><span>影片請開 youtube  C C  字幕</span></p>
-<p></p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/xd4JKUJL94o" width="560"></iframe></p>
-<p><span>網際 V-rep 模型控制</span></p>
-<p>1.到老師的網站下載 <a href="https://drive.google.com/file/d/1cZFSsLEoGOBYojzKzFEf4YH2l--pbS-9/view?usp=sharing">V-rep 3.6.1 rev 4.7z</a><span>  和 <a href="https://github.com/mdecourse/mocad/files/3583773/web_vrep2.zip">web_vrep2.zip</a><span> </span></span></p>
-<p><span><span>2. 用 regedit 指令打開登入編輯程式</span></span></p>
-<p>3. 用 ctrl +F  搜尋 .py 的程式並把他刪除</p>
-<p>4. 開啟 vrep 並開起車子的檔案</p>
-<p>5. 在編譯器裡開起 app.py 並執行</p>
-<p>6. 複製 http://127.0.0.1:5000/  並用瀏覽器開啟</p>
-<p>7. 開始操縱車子</p>
-<p></p>
-<p><span>影片請開 youtube  C C  字幕</span></p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/LcJgweeD1vQ" width="560"></iframe></p>
-<p></p>
-<p>week7</p>
-<p>week8</p>
-<p>week9</p><br />Develop << <a href='Develop.html'>Previous</a> </div>
+    <div id="tipue_search_content"> <a href='week2-5.html'>Next</a> >> week2-5<br /><h1>weeks</h1>
+<br /> <a href='week2-5.html'>Next</a> >> week2-5</div>
         
     <!-- footer -->
       <div class="container">

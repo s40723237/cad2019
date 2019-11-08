@@ -364,7 +364,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191108141432.2"># week2~week5 內容
+<t tx="leo.20191108141432.2"># week7 內容
 
 * 完成任務1. 任務2
 * 任務1. 在  solvespace 的 about 嵌上自己的學號

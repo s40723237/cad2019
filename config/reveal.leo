@@ -65,7 +65,7 @@
 Created by [黃俊翔](http://lab.kmol.info/)
 &lt;/small&gt;
 [倉儲](https://github.com/40823145/cp2019)
-[網誌]
+[網誌](http://mde.tw/cad2019/blog/index.html)
 [網站](https://s40723237.github.io/cad2019/content/index.html)
 
 
@@ -87,10 +87,9 @@ Created by [黃俊翔](http://lab.kmol.info/)
 * week3 重新編譯 solvespace
 * week4 補上之前進度
 * week5 熟悉 solvespace 的基本操作
-* 
-* 
 
-</t>
+&lt;/small&gt;
+[網頁連結](https://s40723237.github.io/cad2019/content/week2-5.html)</t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -349,13 +348,12 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191108141429.2"># week6 內容
 
-* 完成任務1 任務2 任務3
-* 任務 1 用 solvespace 繪製一台車
-* 任務 2 運用 vrep 控制模型
-* 任務 3 新增按鈕
-* 
-* 
+* 完成任務1 任務2 
+* 任務 1. 用 solvespace 繪製一台車
+* 任務 2. 運用 vrep 控制模型
 
+&lt;/small&gt;
+[網頁連結](https://s40723237.github.io/cad2019/content/week6-9.html)
 </t>
 <t tx="leo.20191108141432.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -368,13 +366,12 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191108141432.2"># week2~week5 內容
 
-* 完成任務1 任務2
-* 任務1 在  solvespace 的 about 嵌上自己的學號
-* 任務2  繪製 solvespace 的繪圖認證
-* 
-* 
-* 
+* 完成任務1. 任務2
+* 任務1. 在  solvespace 的 about 嵌上自己的學號
+* 任務2.  繪製 solvespace 的繪圖認證
 
+&lt;/small&gt;
+[網頁連結](https://s40723237.github.io/cad2019/content/week6-9.html)
 </t>
 <t tx="leo.20191108141433.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -385,14 +382,13 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191108141433.2"># week2~week5 內容
+<t tx="leo.20191108141433.2"># week8 內容
 
-* week2 建立個人倉儲並下載更新可攜套件
-* week3 重新編譯solvespace
-* week4 補上之前進度
-* week5 熟悉solvespace的基本操作
-* 
-* 
+* 完成任務1.
+* 任務1. 啟用網誌系統
+
+&lt;/small&gt;
+[網頁連結](https://s40723237.github.io/cad2019/content/week6-9.html)
 
 </t>
 <t tx="leo.20191108152001.1">&lt;section data-markdown&gt;
@@ -406,10 +402,12 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191108152001.2"># NOTE 筆記欄
 
-*利用 git pull origin master 定時跟新 cmsimde
+* 利用 git pull origin master 定時跟新 cmsimde
 * 將 stl 轉檔，並嵌入自己的網站
 * 將檔案轉成 HTML ，並嵌入自己的網站
 
+&lt;/small&gt;
+[網頁連結](https://s40723237.github.io/cad2019/content/week2-5.html)
 </t>
 </tnodes>
 </leo_file>

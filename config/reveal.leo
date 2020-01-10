@@ -92,7 +92,7 @@
 ### 網際內容管理
 
 &lt;small&gt;
-Created by [黃俊翔](http://lab.kmol.info/)
+Created by 40723237 [黃俊翔](http://lab.kmol.info/)
 &lt;/small&gt;
 [倉儲](https://github.com/40823145/cp2019)
 [網誌](http://mde.tw/cad2019/blog/index.html)

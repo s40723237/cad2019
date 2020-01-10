@@ -63,6 +63,9 @@
 <v t="leo.20191108152001.1"><vh>快捷鍵</vh>
 <v t="leo.20191108152001.2"><vh>NOTE</vh></v>
 </v>
+<v t="leo.20200110130057.1"><vh>快捷鍵</vh>
+<v t="leo.20200110130057.2"><vh>w17</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -587,6 +590,21 @@ vertical: body pane on the botton</t>
  * NX電子書翻譯
  
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BererErCwgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200110130057.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110130057.2"># week18 內容
+
+在期末的第10~18週，我給自己的自評分數為65分，我有些
+東西還沒做完整，因此給自己65分得自評
 
 </t>
 </tnodes>

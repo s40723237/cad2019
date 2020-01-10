@@ -517,6 +517,7 @@ vertical: body pane on the botton</t>
 * 查驗
 
 
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0_W8dkp33pg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
@@ -548,6 +549,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200110122305.2"># week13 內容
 
 * 個人報告
+
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YUcpUfjFbu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;

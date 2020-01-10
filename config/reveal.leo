@@ -33,6 +33,33 @@
 <v t="leo.20191108141433.1"><vh>快捷鍵</vh>
 <v t="leo.20191108141433.2"><vh>w8</vh></v>
 </v>
+<v t="leo.20200110122253.1"><vh>快捷鍵</vh>
+<v t="leo.20200110122253.2"><vh>w9</vh></v>
+</v>
+<v t="leo.20200110122257.1"><vh>快捷鍵</vh>
+<v t="leo.20200110122257.2"><vh>w10</vh></v>
+</v>
+<v t="leo.20200110122309.1"><vh>快捷鍵</vh>
+<v t="leo.20200110122309.2"><vh>w11</vh></v>
+</v>
+<v t="leo.20200110122307.1"><vh>快捷鍵</vh>
+<v t="leo.20200110122307.2"><vh>w12</vh></v>
+</v>
+<v t="leo.20200110122305.1"><vh>快捷鍵</vh>
+<v t="leo.20200110122305.2"><vh>w13</vh></v>
+</v>
+<v t="leo.20200110122303.1"><vh>快捷鍵</vh>
+<v t="leo.20200110122303.2"><vh>w14</vh></v>
+</v>
+<v t="leo.20200110122301.1"><vh>快捷鍵</vh>
+<v t="leo.20200110122301.2"><vh>w15</vh></v>
+</v>
+<v t="leo.20200110122259.1"><vh>快捷鍵</vh>
+<v t="leo.20200110122259.2"><vh>w16</vh></v>
+</v>
+<v t="leo.20200110122255.1"><vh>快捷鍵</vh>
+<v t="leo.20200110122255.2"><vh>w17</vh></v>
+</v>
 <v t="leo.20191108152001.1"><vh>快捷鍵</vh>
 <v t="leo.20191108152001.2"><vh>NOTE</vh></v>
 </v>
@@ -348,7 +375,6 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191108141429.2"># week6 內容
 
-* 完成任務1 任務2 
 * 任務 1. 用 solvespace 繪製一台車
 * 任務 2. 運用 vrep 控制模型
 
@@ -366,7 +392,6 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191108141432.2"># week7 內容
 
-* 完成任務1. 任務2
 * 任務1. 在  solvespace 的 about 嵌上自己的學號
 * 任務2.  繪製 solvespace 的繪圖認證
 
@@ -384,7 +409,6 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191108141433.2"># week8 內容
 
-* 完成任務1.
 * 任務1. 啟用網誌系統
 
 &lt;/small&gt;
@@ -408,6 +432,160 @@ vertical: body pane on the botton</t>
 
 &lt;/small&gt;
 [網頁連結](https://s40723237.github.io/cad2019/content/week2-5.html)
+</t>
+<t tx="leo.20200110122253.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110122253.2"># week9 內容
+
+ *期中報告
+
+
+
+</t>
+<t tx="leo.20200110122255.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110122255.2"># week17 內容
+
+* 利用 nx 12 繪製一台車
+* 放到 vrep
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1lFyHZdmK1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200110122257.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110122257.2"># week10 內容
+
+*任務1:各組員fork組長所創建的倉儲
+
+*Task2:整理各軟體的起源及歷史
+
+
+&lt;/small&gt;
+[網頁連結](https://s40723237.github.io/cad2019/content/week10-14.html)
+
+</t>
+<t tx="leo.20200110122259.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110122259.2"># week16 內容
+
+* 利用solvespace 繪製一台車
+* 再放到vrep
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/H01SyMo6nKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200110122301.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110122301.2"># week15 內容
+
+* 查驗
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0_W8dkp33pg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200110122303.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110122303.2"># week14 內容
+
+* 趕上進度
+
+
+
+</t>
+<t tx="leo.20200110122305.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110122305.2"># week13 內容
+
+* 個人報告
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YUcpUfjFbu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200110122307.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110122307.2"># week12 內容
+
+* nx 第六章操作 模型組合和爆炸圖
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3auVIq__zzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200110122309.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110122309.2"># week11 內容
+
+ *任務1:nx 繪圖練習
+ *任務2:NX電子書翻譯
+ 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BererErCwgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 </tnodes>
 </leo_file>

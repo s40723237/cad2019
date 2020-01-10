@@ -39,20 +39,20 @@
 <v t="leo.20200110122257.1"><vh>快捷鍵</vh>
 <v t="leo.20200110122257.2"><vh>w10</vh></v>
 </v>
-<v t="leo.20200110122309.1"><vh>快捷鍵</vh>
-<v t="leo.20200110122309.2"><vh>w11</vh></v>
+<v t="leo.20200110133646.1"><vh>快捷鍵</vh>
+<v t="leo.20200110133646.2"><vh>w11</vh></v>
 </v>
 <v t="leo.20200110122307.1"><vh>快捷鍵</vh>
 <v t="leo.20200110122307.2"><vh>w12</vh></v>
 </v>
-<v t="leo.20200110122305.1"><vh>快捷鍵</vh>
-<v t="leo.20200110122305.2"><vh>w13</vh></v>
+<v t="leo.20200110133651.1"><vh>快捷鍵</vh>
+<v t="leo.20200110133651.2"><vh>w13</vh></v>
 </v>
 <v t="leo.20200110122303.1"><vh>快捷鍵</vh>
 <v t="leo.20200110122303.2"><vh>w14</vh></v>
 </v>
-<v t="leo.20200110122301.1"><vh>快捷鍵</vh>
-<v t="leo.20200110122301.2"><vh>w15</vh></v>
+<v t="leo.20200110133342.1"><vh>快捷鍵</vh>
+<v t="leo.20200110133342.2"><vh>w8</vh></v>
 </v>
 <v t="leo.20200110122259.1"><vh>快捷鍵</vh>
 <v t="leo.20200110122259.2"><vh>w16</vh></v>
@@ -64,7 +64,7 @@
 <v t="leo.20191108152001.2"><vh>NOTE</vh></v>
 </v>
 <v t="leo.20200110130057.1"><vh>快捷鍵</vh>
-<v t="leo.20200110130057.2"><vh>w17</vh></v>
+<v t="leo.20200110130057.2"><vh>w18</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -506,24 +506,6 @@ vertical: body pane on the botton</t>
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/H01SyMo6nKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20200110122301.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200110122301.2"># week15 內容
-
-* 查驗
-
-
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0_W8dkp33pg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
 <t tx="leo.20200110122303.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -538,24 +520,6 @@ vertical: body pane on the botton</t>
 * 趕上進度
 
 
-
-</t>
-<t tx="leo.20200110122305.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200110122305.2"># week13 內容
-
-* 個人報告
-
-
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YUcpUfjFbu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20200110122307.1">&lt;section data-markdown&gt;
@@ -575,23 +539,6 @@ vertical: body pane on the botton</t>
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3auVIq__zzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20200110122309.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200110122309.2"># week11 內容
-
- * nx 繪圖練習
- * NX電子書翻譯
- 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BererErCwgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
 <t tx="leo.20200110130057.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -605,6 +552,57 @@ vertical: body pane on the botton</t>
 
 在期末的第10~18週，我給自己的自評分數為65分，我有些
 東西還沒做完整，因此給自己65分得自評
+
+</t>
+<t tx="leo.20200110133342.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110133342.2"># week15 內容
+
+* 查驗
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0_W8dkp33pg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200110133646.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110133646.2"># week11 內容
+
+* nx 12 繪圖練習
+* nx電子書翻譯
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BererErCwgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200110133651.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110133651.2"># week13 內容
+
+* 個人報告
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YUcpUfjFbu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>

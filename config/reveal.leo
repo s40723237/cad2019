@@ -583,8 +583,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200110122309.2"># week11 內容
 
- *任務1:nx 繪圖練習
- *任務2:NX電子書翻譯
+ * nx 繪圖練習
+ * NX電子書翻譯
  
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BererErCwgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 

@@ -551,7 +551,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200110130057.2"># week18 內容
 
 在期末的第10~18週，我給自己的自評分數為65分，我有些
-東西還沒做完整，因此給自己65分得自評
+東西還沒做完整，大致完成了65%，因此自評65分
 
 </t>
 <t tx="leo.20200110133342.1">&lt;section data-markdown&gt;
